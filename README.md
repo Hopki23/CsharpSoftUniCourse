@@ -1,1 +1,1 @@
-# CSharpSoftUniCourse
+SoftUniCourse
