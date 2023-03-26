@@ -1,0 +1,25 @@
+Successfully import manufacturer BAE Systems founded in England.
+Invalid data.
+Successfully import manufacturer Aviation Industry Corporation of China founded in China.
+Successfully import manufacturer General Dynamics founded in United States.
+Successfully import manufacturer Raytheon Technologies founded in United States.
+Successfully import manufacturer Northrop Grumman founded in United States.
+Successfully import manufacturer Lockheed Martin founded in United States.
+Successfully import manufacturer Izhmekh founded in USSR.
+Invalid data.
+Invalid data.
+Successfully import manufacturer Škoda founded in Austrian Empire.
+Successfully import manufacturer Krupp founded in German Empire.
+Successfully import manufacturer Obukhov State Plant founded in Russia.
+Invalid data.
+Successfully import manufacturer Putilov plant founded in Coast Gulf of Finland.
+Successfully import manufacturer Schneider et Cie founded in France.
+Successfully import manufacturer Colt's Manufacturing Company founded in United States.
+Successfully import manufacturer Glock Ges.m.b.H. founded in  Austria.
+Successfully import manufacturer Almaz-Antey founded in Russia.
+Successfully import manufacturer Thales Group founded in France.
+Successfully import manufacturer Leonardo S.p.A. founded in Italy.
+Successfully import manufacturer L3Harris Technologies founded in United States.
+Successfully import manufacturer Norinco founded in China.
+Invalid data.
+Successfully import manufacturer China Electronics Technology Group founded in China.
